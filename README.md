@@ -1,2 +1,4 @@
-# BSC
-BSC Code Carbon Zero
+# BSC - Carbon Zero 
+Carbon Zero is a decentralized economic model dedicated to building an ecosystem for lowering carbon through engineered solutions. The project will be investing heavily in Carbon Capture plants, devices, and other projects. The team has an extensive engineering group with expertise in process, electronics, blockchain, Ai, and Machine learning.
+
+The growth of the token is written right into the smart contract with 2% redistribution to HODLers, 3% to the impact fund to build Carbon capture devices and plants. The modular devices will be capturing carbon and farming CZO - thus incentivizing lowering the carbon. These will literally be wealth-generating machines. Dapps for a global carbon exchange and Peer-to-Peer marketplace based on Smart Contracts will further add to the token's value before building the Carbon Zero blockchain.
