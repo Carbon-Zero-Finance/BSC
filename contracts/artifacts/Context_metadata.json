@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.4+commit.c7e474f2"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/CarbonZero.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/CarbonZero.sol": {
+			"keccak256": "0xbe0a8def5d5ae4036cf03281ae0477dcb67d994b999b2d1446ed7886b9ccade4",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://cf98687fe8b5d5ed87ac5de919f89ed7e824870dafb5e27a47a4237b7d871e0b",
+				"dweb:/ipfs/QmWJUb94ekhbgTa3BKyg6ZduY9pfAZfdTGfJ5NenrgdDSy"
+			]
+		}
+	},
+	"version": 1
+}
